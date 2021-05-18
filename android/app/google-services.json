@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889486464945",
+    "project_id": "bienapp-6d462",
+    "storage_bucket": "bienapp-6d462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889486464945:android:6b850807a927cc3d1f0f90",
+        "android_client_info": {
+          "package_name": "com.miguelmontesc.yubarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889486464945-4tbvmfapjfj3dchu404ue2fmqpumg1g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miguelmontesc.yubarta",
+            "certificate_hash": "ae2a2295fde3a72dbc3ac28944279e210e7bf2d1"
+          }
+        },
+        {
+          "client_id": "889486464945-u9rvrc3tml3tnrcjnbfhpp6161m6hqer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ttCcKRUKzmYI-1j2kc1hwCnDP4v4DuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889486464945-u9rvrc3tml3tnrcjnbfhpp6161m6hqer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
